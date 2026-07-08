@@ -5,3 +5,6 @@
 
 ## Taller EDA - Análisis de Nómina
 ### https://nbviewer.org/github/Johnz638/DataScience_classes/blob/main/taller_eda_negocio_peque%C3%B1o.ipynb
+
+## Taller de Machine Learning
+### https://nbviewer.org/github/Johnz638/DataScience_classes/blob/main/taller_machinelearning.ipynb
