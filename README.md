@@ -8,3 +8,6 @@
 
 ## Taller de Machine Learning
 ### https://nbviewer.org/github/Johnz638/DataScience_classes/blob/main/taller_machinelearning.ipynb
+
+## Taller de aprendizaje no supervisado
+### https://nbviewer.org/github/Johnz638/DataScience_classes/blob/main/taller_aprendizaje_no_supervisado.ipynb
